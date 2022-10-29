@@ -26,31 +26,21 @@
       "name": "SG_TrueMoveNoPro-Free3",
       "url": "6a5dPBmwKgKCOFOE1m5VbaNuFu6RLxbfhMTODHsHOKz2UpHe6laS4wuICi+1nxYJcsyd4hibGHMuPPk9Y0QfdjSA2eRPQx4jHWA8soPQdhs="
     },
-{
-
-         "name": "US-DtacNoPro-FREE",
-         "url": "Ug3AJBkfEDUO90eSZPUfjYnYOD9xJF4+aW8htCZ+DxVHW4cOpwiuXmveGd1Or0ACe7/rmLA8LQr+LW5ih2j68tFLeKnGcz3CITcziNiAquGeq7SXULYOAD7tSL0="
-      },
-
-
-
-
-{
-         "name": "US-TrueNoPro-FREE",
-         "url": "RAP7FPVmOBgXiQK/aFBd88EEmjja2mPOyKUg3w7MQLTFZBvxBcZK+gIRLpdNH1mTgtwFIEiin1JRb1Av+YbEB9K6mcGocQ27baaZVW9g16fuT59v/i49tS2IwoY="
-      },
-
-
-
-
-{
-         "name": "TH-DtacNoPro-FREE",
-         "url": "eHnDr+1DZugcJl6mbHRpPiiQpV4TjS/y4tRK+7NyiYZ/XmxppgRB8gzjXYx3yZJL18EjzLMLTnsYeZrNfNEtOtBCs6/bGVeOlzIO0kNtK7q4HLExk+rVvA=="
-      },
-
-{
-         "name": "TH-TrueNoPro-FREE",
-         "url": "uosWr10qXykxSVM27EMhp+pXxSrJv2wsl86znvcCYfEcjbfOwQHBKi7kxqHiW15PjBZWqK+YcU6Ad0pSOj8NIeEBvLxjzLBOaYSkTmwPVb/BJnBU/8mgng=="
-      },
+    {
+      "name": "US-DtacNoPro-FREE",
+      "url": "Ug3AJBkfEDUO90eSZPUfjYnYOD9xJF4+aW8htCZ+DxVHW4cOpwiuXmveGd1Or0ACe7/rmLA8LQr+LW5ih2j68tFLeKnGcz3CITcziNiAquGeq7SXULYOAD7tSL0="
+    },
+    {
+      "name": "US-TrueNoPro-FREE",
+      "url": "RAP7FPVmOBgXiQK/aFBd88EEmjja2mPOyKUg3w7MQLTFZBvxBcZK+gIRLpdNH1mTgtwFIEiin1JRb1Av+YbEB9K6mcGocQ27baaZVW9g16fuT59v/i49tS2IwoY="
+    },
+    {
+      "name": "TH-DtacNoPro-FREE",
+      "url": "eHnDr+1DZugcJl6mbHRpPiiQpV4TjS/y4tRK+7NyiYZ/XmxppgRB8gzjXYx3yZJL18EjzLMLTnsYeZrNfNEtOtBCs6/bGVeOlzIO0kNtK7q4HLExk+rVvA=="
+    },
+    {
+      "name": "TH-TrueNoPro-FREE",
+      "url": "uosWr10qXykxSVM27EMhp+pXxSrJv2wsl86znvcCYfEcjbfOwQHBKi7kxqHiW15PjBZWqK+YcU6Ad0pSOj8NIeEBvLxjzLBOaYSkTmwPVb/BJnBU/8mgng=="
+    }
   ]
 }
