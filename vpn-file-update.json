@@ -1,30 +1,30 @@
 {
   "version": 1,
-  "title": "New  update available",
+  "title": "****************",
   "message": "- Added SG Server\n- Added Thai Server\n- Added GCP Server.\nPowered By AMeKo(CoderJR)",
   "files": [
-    { "name": "SG-DtacNoPro-FREE1",
-      "url": "iNxry0JUrrkabzhQTNNSiSIlHiByQopdGNkOskx4kWijZQg9LHozL52wNdZSQo+WE5vQv7eCPPhcrB1yBMfBweD+Au3MJJcGgCdC3Z1t1yLa/TTYyeHX3D62nU4="
+    { "name": "SG-DtacNoPro-Free1",
+      "url": "n++827NRcW7g7eNAkHTnLxoFFdI4ZsQadqkSmUGj4mOjO/yyVEko01dhhWHB6cbpKy2KuDUoliaqG7+U7h+xl4twjRLgqLpHw97EzTppd6c="
       },
     {
-      "name": "SG_Mytel ( GCP Server-1 )",
-      "url": "6uh3HUZRsT7dW0V4MC6pjHqUfxjFqvR/+7R+fISR3ZGehG+MowYNZ0I8H6A2vOaQgikMFpUEfREHC5fbx/tLtElmf0U="
+      "name": "SG-DtacNoPro-Free2",
+      "url": "n++827NRcW7g7eNAkHTnLxoFFdI4ZsQadqkSmUGj4mOjO/yyVEko01dhhWHB6cbpKy2KuDUoliaqG7+U7h+xl4twjRLgqLpHw97EzTppd6c="
     },
     {
-      "name": "US_Mytel ( GCP Server-2 )",
-      "url": "5qKRIlD4qgecTzZoFtxo+JYoCUIP3s9wEEeXcX0W46tU7vLlkiLYvut7qPIfLBD4oS0l73z+0pgeLCPFi3nC+b15Tuo="
+      "name": "SG-DtacNoPro-Free3",
+      "url": "n++827NRcW7g7eNAkHTnLxoFFdI4ZsQadqkSmUGj4mOjO/yyVEko01dhhWHB6cbpKy2KuDUoliaqG7+U7h+xl4twjRLgqLpHw97EzTppd6c="
     },
     {
-      "name": "SG_Mytel ( GCP Server-3 )",
-      "url": "IE1nJJXrEUP2WcgNBxEe2z2Ma+YnmlZGhGHntEj8LYSyfkgCd+70tprXMjucpnxbDIRuP5eR3s8eIv/epXIMYzlyXIg="
+      "name": "SG_TrueMoveNoPro-Free1",
+      "url": "6a5dPBmwKgKCOFOE1m5VbaNuFu6RLxbfhMTODHsHOKz2UpHe6laS4wuICi+1nxYJcsyd4hibGHMuPPk9Y0QfdjSA2eRPQx4jHWA8soPQdhs="
     },
     {
-      "name": "JP_Mytel ( GCP Server-4 )",
-      "url": "dgVGZDDogc4d4ymSHQD5pag4T9VziWzNDLV6dWrMH94RcQHfUaB0mJha8EsonrwvPP9IPakI0unJRzVYfHxgRu+wCJ4="
+      "name": "SG_TrueMoveNoPro-Free2",
+      "url": "6a5dPBmwKgKCOFOE1m5VbaNuFu6RLxbfhMTODHsHOKz2UpHe6laS4wuICi+1nxYJcsyd4hibGHMuPPk9Y0QfdjSA2eRPQx4jHWA8soPQdhs="
     },
     {
-      "name": "MM_Mytel ( GCP Server-5 )",
-      "url": "iRETMZo3vMcmaw3K1DVOv0AUXBoupFr2Tv4ruKXo5hC3W9bBqzp6adwDdTC1zSviQVOYg5gEFftyvjEGGP/JzQvkUFQ="
+      "name": "SG_TrueMoveNoPro-Free3",
+      "url": "6a5dPBmwKgKCOFOE1m5VbaNuFu6RLxbfhMTODHsHOKz2UpHe6laS4wuICi+1nxYJcsyd4hibGHMuPPk9Y0QfdjSA2eRPQx4jHWA8soPQdhs="
     }
   ]
 }
