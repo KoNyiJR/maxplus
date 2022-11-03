@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "title": "****************",
   "message": "- Added SG Server\n- Added Thai Server\n- Added GCP Server.\nPowered By AMeKo(CoderJR)",
   "files": [
@@ -43,40 +43,40 @@
       "url": "uosWr10qXykxSVM27EMhp+pXxSrJv2wsl86znvcCYfEcjbfOwQHBKi7kxqHiW15PjBZWqK+YcU6Ad0pSOj8NIeEBvLxjzLBOaYSkTmwPVb/BJnBU/8mgng=="
     },
     {
-      "name": "TH-D+T Free1",
+      "name": "TH-Dtac-True Free1",
       "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
     },
     {
-      "name": "TH-D+T Free2",
+      "name": "TH-Dtac-True Free2",
       "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
     },
     {
-      "name": "TH-D+T Free3",
+      "name": "TH-Dtac-True Free3",
       "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
     },
     {
-      "name": "TH-D+T Free4",
+      "name": "TH-Dtac-True Free4",
       "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
     },
     {
-      "name": "TH-D+T Free5",
+      "name": "TH-Dtac-True Free5",
       "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
     },
     {
       "name": "Mytel_HK_10Nov_GCP",
-      "url": "pu4rqYVmoMkv03TlfZ1Lrwcnv0rOcfPZa7Ny5fTuABWXKUoJLs6BJCbCpLBf+1C/yErcsM/NJBDRkssRDqSiz8+UJi92IH1tQ6HJ46lzVGU="
+      "url": "I25H28Og1CjmFNuVLVnVVIY8P3gJwXh9Ydm4+UBxe1xRPiMTrVpChZj48BIpOudvUrnRl5n1aWA="
     },
     {
       "name": "Mytel_MM_GCP",
-      "url": "F3Dw2cw+QmSdKKiqdO4lpYTAwQ0z4bLP05tqAsYvgqtsUXGi5o2BmV2mje6L/g7AMX5h9MgoQHAcs7zr8hHFr7lsJGwxVtIH+UNJ33C9QfEXRilG"
+      "url": "Bw/sOO/blgIFZZ4B/CSrZdTbeDSxU6vP2imS4crz5f22jt/qecoweFhyh58lc0h8GZC7GRz3Wbc="
     },
     {
       "name": "Mytel_JP_GCP",
-      "url": "F3Dw2cw+QmSdKKiqdO4lpYTAwQ0z4bLP05tqAsYvgqtsUXGi5o2BmV2mje6L/g7AMX5h9MgoQHAcs7zr8hHFr7lsJGwxVtIH+UNJ33C9QfEXRilG"
+      "url": "6FBvvzTCHHGEHLTX+zgETeNCFweJMaWPreTw28tkm23zhGe6s5vAyvdZbelXj+AERnZTqXmuhPI="
     },
     {
       "name": "Mytel_SG_10Nov_GCP",
-      "url": "pu4rqYVmoMkv03TlfZ1Lrwcnv0rOcfPZa7Ny5fTuABWXKUoJLs6BJCbCpLBf+1C/yErcsM/NJBDRkssRDqSiz8+UJi92IH1tQ6HJ46lzVGU="
+      "url": "TFNFEtdNsYzz8qOIv4y7Be7iHotsVT4RrbRG7MfaqpE1hSuLKuGB1/t5qMMRXReHxWB+LGbPqLs="
     }
   ]
 }
