@@ -75,8 +75,12 @@
       "url": "6FBvvzTCHHGEHLTX+zgETeNCFweJMaWPreTw28tkm23zhGe6s5vAyvdZbelXj+AERnZTqXmuhPI="
     },
     {
-      "name": "Mytel_SG_10Nov_GCP",
+      "name": "Mytel_MM_10Nov_GCP",
       "url": "TFNFEtdNsYzz8qOIv4y7Be7iHotsVT4RrbRG7MfaqpE1hSuLKuGB1/t5qMMRXReHxWB+LGbPqLs="
+    },
+    {
+      "name": "Mytel_US_GCP",
+      "url": "bsvUwmSdmvYoUUfHmGk399SnKQmc3OENq07wphKE8hVRreBEs3XHjIkNa+VlhCvUNqT3D5J1rxo="
     }
   ]
 }
