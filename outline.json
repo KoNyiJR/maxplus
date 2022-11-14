@@ -2,27 +2,27 @@
 "server":[
   {
     "name": "Mytel GCP SG1",
-    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICIzOjAwIOGAgOGAr+GAlOGAuuGAleGAq+GAmeGAmuGAuiBWMSIsCiAgImFkZCI6ICIzNC45My4xNzkuMjQwIiwKICAicG9ydCI6IDIwNzc3LAogICJpZCI6ICIxMTdhYjNhYi1lNmIzLTQ3MzEtOTY3Yy1mN2EwNTFmMjQzMzciLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9"
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVGZ6bFJ5TkFKdG4=@52.77.119.177:51517#Singapore+Fast+Server1"
   },
   {
     "name": "Mytel GCP SG2",
-    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICIzOjAwIOGAgOGAr+GAlOGAuuGAleGAq+GAmeGAmuGAuiBWMSIsCiAgImFkZCI6ICIzNC45My4xNzkuMjQwIiwKICAicG9ydCI6IDIwNzc3LAogICJpZCI6ICIxMTdhYjNhYi1lNmIzLTQ3MzEtOTY3Yy1mN2EwNTFmMjQzMzciLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9"
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVGZ6bFJ5TkFKdG4=@52.77.119.177:51517#Singapore+Fast+Server2"
   },
   {
-    "name": "Mytel GCP SG3",
-    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICIzOjAwIOGAgOGAr+GAlOGAuuGAleGAq+GAmeGAmuGAuiBWMSIsCiAgImFkZCI6ICIzNC45My4xNzkuMjQwIiwKICAicG9ydCI6IDIwNzc3LAogICJpZCI6ICIxMTdhYjNhYi1lNmIzLTQ3MzEtOTY3Yy1mN2EwNTFmMjQzMzciLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9"
+    "name": "Mytel GCP SG1",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVGZ6bFJ5TkFKdG4=@52.77.119.177:51517#Singapore+Fast+Server3"
   },
   {
-    "name": "Mytel GCP SG4",
-    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICIzOjAwIOGAgOGAr+GAlOGAuuGAleGAq+GAmeGAmuGAuiBWMSIsCiAgImFkZCI6ICIzNC45My4xNzkuMjQwIiwKICAicG9ydCI6IDIwNzc3LAogICJpZCI6ICIxMTdhYjNhYi1lNmIzLTQ3MzEtOTY3Yy1mN2EwNTFmMjQzMzciLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9"
+    "name": "Mytel GCP SG1",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVGZ6bFJ5TkFKdG4=@52.77.119.177:51517#Singapore+Fast+Server4"
   },
   {
-    "name": "Mytel GCP SG5",
-    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICIzOjAwIOGAgOGAr+GAlOGAuuGAleGAq+GAmeGAmuGAuiBWMSIsCiAgImFkZCI6ICIzNC45My4xNzkuMjQwIiwKICAicG9ydCI6IDIwNzc3LAogICJpZCI6ICIxMTdhYjNhYi1lNmIzLTQ3MzEtOTY3Yy1mN2EwNTFmMjQzMzciLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9"
+    "name": "Mytel GCP SG1",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVGZ6bFJ5TkFKdG4=@52.77.119.177:51517#Singapore+Fast+Server5"
   },
   {
-    "name": "Mytel GCP SG6",
-    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICIzOjAwIOGAgOGAr+GAlOGAuuGAleGAq+GAmeGAmuGAuiBWMSIsCiAgImFkZCI6ICIzNC45My4xNzkuMjQwIiwKICAicG9ydCI6IDIwNzc3LAogICJpZCI6ICIxMTdhYjNhYi1lNmIzLTQ3MzEtOTY3Yy1mN2EwNTFmMjQzMzciLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9"
+    "name": "Mytel GCP SG1",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVGZ6bFJ5TkFKdG4=@52.77.119.177:51517#Singapore+Fast+Server6"
   }
 ]
 }
