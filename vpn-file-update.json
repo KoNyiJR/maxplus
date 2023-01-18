@@ -1,230 +1,88 @@
 {
-  "version": 6,
-  "title": "Mytel & Dtac & True",
-  "message": "-More Many C Server for free User.\n- Added SG 11 Server\n- Added Thai 5 Server\n- Added JP 5 Server\n- Added GCP Server.\n- Added Canada 8 Server.\n- Added IND 11 Server.\nPowered By AMeKo(CoderJR)",
+  "version": 7,
+  "title": " Dtac & True",
+  "message": "-More Many C Server for free User.\n- Added SG 10 Server\n- Added US 6 Server ",
   "files": [
-    { "name": "SG-DtacNoPro-Free1",
-      "url": "n++827NRcW7g7eNAkHTnLxoFFdI4ZsQadqkSmUGj4mOjO/yyVEko01dhhWHB6cbpKy2KuDUoliaqG7+U7h+xl4twjRLgqLpHw97EzTppd6c="
+{
+         "name": "SG-DTAC-1",
+         "url": "k9jIiqVAzJDaw5Sf6lQrbYMcmAXGaW8Ztj3EXlv3EvHqiOWx1RaaUvx4Ks9LOD1VeVZaBzAdmkbJvenISCHm7LerZYJhnh5RmNadReFmcIs="
+     },
+
+{
+         "name": "SG-DTAC-2",
+         "url": "740uXZh1f4XgzCb+Z4ZFndmADTXbIY5MEjY23zz6dXE4JKeuynFh06C/gR4FTtZHgGD9sQDNIplD8XdwFiW3os45cddaWNXKVGx8FvXPZSA="
       },
-    {
-      "name": "SG-DtacNoPro-Free2",
-      "url": "n++827NRcW7g7eNAkHTnLxoFFdI4ZsQadqkSmUGj4mOjO/yyVEko01dhhWHB6cbpKy2KuDUoliaqG7+U7h+xl4twjRLgqLpHw97EzTppd6c="
-    },
-    {
-      "name": "SG-DtacNoPro-Free3",
-      "url": "n++827NRcW7g7eNAkHTnLxoFFdI4ZsQadqkSmUGj4mOjO/yyVEko01dhhWHB6cbpKy2KuDUoliaqG7+U7h+xl4twjRLgqLpHw97EzTppd6c="
-    },
-    {
-      "name": "SG_TrueMoveNoPro-Free1",
-      "url": "6a5dPBmwKgKCOFOE1m5VbaNuFu6RLxbfhMTODHsHOKz2UpHe6laS4wuICi+1nxYJcsyd4hibGHMuPPk9Y0QfdjSA2eRPQx4jHWA8soPQdhs="
-    },
-    {
-      "name": "SG_TrueMoveNoPro-Free2",
-      "url": "6a5dPBmwKgKCOFOE1m5VbaNuFu6RLxbfhMTODHsHOKz2UpHe6laS4wuICi+1nxYJcsyd4hibGHMuPPk9Y0QfdjSA2eRPQx4jHWA8soPQdhs="
-    },
-    {
-      "name": "SG_TrueMoveNoPro-Free3",
-      "url": "6a5dPBmwKgKCOFOE1m5VbaNuFu6RLxbfhMTODHsHOKz2UpHe6laS4wuICi+1nxYJcsyd4hibGHMuPPk9Y0QfdjSA2eRPQx4jHWA8soPQdhs="
-    },
-    {
-      "name": "TH-Dtac-True Free1",
-      "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
-    },
-    {
-      "name": "TH-Dtac-True Free2",
-      "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
-    },
-    {
-      "name": "TH-Dtac-True Free3",
-      "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
-    },
-    {
-      "name": "TH-Dtac-True Free4",
-      "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
-    },
-    {
-      "name": "TH-Dtac-True Free5",
-      "url": "88appfR+JMDB0CSXdRrXUyxmIWIrhN3PuVxUy1sTB2JkQK8FNN5i66m9pXrDVVtuMFS+C8hasc9Qt6sAUNrH/4hyRgOrHWW1"
-    },
-    {
-      "name": "SG-Dtac-True Free1",
-      "url": "KImdoy3iA5sfSofqayGYDB9LS3QDZbE+OWpCqLaBlLzPWMlP+XSzaa3qaUZa2iIvVQe46+quM1nZKUl/gzHxWnL63jjXmNXEYwERp6OvyHxJ2Mf0"
-    },
-    {
-      "name": "SG-Dtac-True Free2",
-      "url": "xKAM0frDr1JbeY9y2ZMpgUXwxcD68kqW5BV4LwxtFjpIqIv8zavUV8us9ts7T0qljeRV9zgRHCdxSY0gfSKx8kkiaJTf5T9ZW+i5v/LsgtHnL233"
-    },
-    {
-      "name": "SG-Dtac-True Free3",
-      "url": "hjMkRsokMbBZrznYv+q5d+xtwQ/65or6pjqhqG3fWAzmGIR0CGGDVLsHS5bWvKQJakhMlQigNoVL6j/m43mEsCvhGEyjv31ZOWycPU/GG2FDX8iY"
-    },
-    {
-      "name": "SG-Dtac-True Free4",
-      "url": "y1wfymm0G51wgxAzAXzNak8Ow7cVPmyqpJ2JZO5RwB5c0RZiCpEzxTJuSuaPbHs4swKCsxE+B8UQ1qf0d6hE94LbnkX9jSMkTSt5D/wyn6zGbtXc"
-    },
-    {
-      "name": "SG-Dtac-True Free5",
-      "url": "YKPY/5dYISFLkrd4qaRQVi+VpfaE/LVlotu4Mgk4t7obNrqd5SE6ikFZw2xETxDLSzT1/WF/PWq+GqS7JHd2nSmkZ90FQu8klNxgq2DT7HlCxfQq"
-    },
-    {
-      "name": "JP-Dtac-True Free1",
-      "url": "yBbzxUVqLiyXq882owH/EPxOeyno0fIvO9c+cGtrfCV0JvoPcf0NOW/XmNcEIiqqTki6WZueMQpizAFA9ycFQIwhL9h/+Ym5A5WnTaNiSamglyQ0"
-    },
-    {
-      "name": "JP-Dtac-True Free2",
-      "url": "lneP/gNMTWco4Ii1VKD5xMLiolUglbs+TbT82RBNVKKN6rJ5se8cTrWsq2gujog0R4q/ACC6QCMNnSNJTmDEBwSgUHf9BDL6vX0kLm63LG5ygbBc"
-    },
-    {
-      "name": "JP-Dtac-True Free3",
-      "url": "MHF9H41UuRhrTmmqrkCXzmhVsK8buDTvMfs+UUftWVnKZrw2hWurkWYradjVJsdeChpB5eF6wMPauSh8M3PO7pqq6acZp7y3oZstQDi3dalVTJV5"
-    },
-    {
-      "name": "JP-Dtac-True Free4",
-      "url": "t17Bx9qzgj4uYC0KAEel5TwbLOFvNqxN/IJ+pv8FvJPX8sVKzUA5pCv4vE74M/epQsM/DrusYl+uarVm8r7AkK1h4WHjCrd18ujdNmuwaw93j7QS"
-    },
-    {
-      "name": "JP-Dtac-True Free5",
-      "url": "ORTEo0ELfrU1HHShNgT6nALMDeMe9Jql32+sNsg4PoVghFad4RsfzWUWeV6A4r3bdai9Fu10yGaYpLTKszAzRqq2t/EGeZD3FJi75lNQE1E/w1Dk"
-    },
-    {
-      "name": "Mytel_HK_10Nov_GCP",
-      "url": "YFl/P70BTZqiB/uLV/mxGyOgLOdk5x3rE2wpHkQdpQwtnxpMRQven/l6ZLYiK0f8zvkqZmcPOSGNkQPI"
-    },
-    {
-      "name": "Mytel_MM_GCP",
-      "url": "YFl/P70BTZqiB/uLV/mxGyOgLOdk5x3rE2wpHkQdpQwtnxpMRQven/l6ZLYiK0f8zvkqZmcPOSGNkQPI"
-    },
-    {
-      "name": "Mytel_JP_GCP",
-      "url": "D8OAEwh2Gg9YGknop7Y75BtZB3aGciaS+K1hPVRh4o7Lko7PyDIneit2JvuG55xRpuWtHemMHwPQKcR/"
-    },
-    {
-      "name": "Mytel_MM_10Nov_GCP",
-      "url": "D8OAEwh2Gg9YGknop7Y75BtZB3aGciaS+K1hPVRh4o7Lko7PyDIneit2JvuG55xRpuWtHemMHwPQKcR/"
-    },
-    {
-      "name": "Mytel_US_GCP",
-      "url": "D8OAEwh2Gg9YGknop7Y75BtZB3aGciaS+K1hPVRh4o7Lko7PyDIneit2JvuG55xRpuWtHemMHwPQKcR/"
-    },
-    {
-      "name": "CA_DtacNoPro-TrueNoPro_1",
-      "url": "c2Ul/ZFV0f5STqOc50/uZ4cjfF30T0uaAXKs8jySwjSgFr+7pzSzBR2joxVGsj/RQeIUKC/K31uK2rc9BeOLnrghw5/cphM7"
-    },
-    {
-      "name": "CA_DtacNoPro-TrueNoPro_2",
-      "url": "uVPWbbdQXEJhGzVGJbDoG/kLuulwJKbuaCjPYiamyrK4XnT/iKYDaAPeQm1QLjksuGjcBxMKs2xLbQ8cMCwq59N0bpMItWxw"
-    },
-    {
-      "name": "CA_DtacNoPro-TrueNoPro_3",
-      "url": "qtA8enRRqpdUke8tZVNI2Y15VvOTwXOKMN3Np6mQGn0OItXYQIhRhzbWan35F0DQYUr0b0EHaiUCWuF4+0H8lek215o+bN4R"
-    },
-    {
-      "name": "CA_DtacNoPro-TrueNoPro_4",
-      "url": "mtawHU6eTWNtcqYiekTlEKx7txlWGAU5T7SQE8jo1cXX8+3IQZ3j2PNz8s5Gv3rlIm+HZPrfg5X01Lw4+DRfJgyYeEJ70UbX"
-    },
-    {
-      "name": "CA_DtacNoPro-TrueNoPro_5",
-      "url": "YcOvlLbQBcMkwYnSvcM9wDnwebzzEx9t9Wr9ZTKfTkmrWlytoX/21LUUimM18OSqmdAVDClGZL06YeI5O/My4JdpZQl4BygF"
-    },
-    {
-      "name": "CA_DtacNoPro-TrueNoPro_6",
-      "url": "BM3MJzkxltbR0UKT6TpJod46TPZIHU5fL61o62rybj/PQhpWu1PvLSd0wr+g8V8G051wLxFa6SVl7kZy529cXJ2i9Qqrp4Q/"
-    },
-    {
-      "name": "CA_DtacNoPro-TrueNoPro_7",
-      "url": "gRY7auKZ0Se0mLeZK8R55QFmS1Mrk7DkbPWmCDgzIgjlyCfUtFDL+aEuvMKe2No4bq5W4ORumM8kB80faLF+35IsUMAwcQQp"
-    },
-    {
-      "name": "CA_DtacNoPro-TrueNoPro_8",
-      "url": "USsQjZfEyfJzPjOVzr73kWALfNpnwJYOXVuBidhOepbnumICgQ2AHlTZftpoJNAjF99HBBGlq6asNQIMrSs24f6NMmzdHEWs"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_1",
-      "url": "60S3W76QHbGdBGWzTlYd+n3fuDN2zLCK+eFvp20oXcQgQ8P1sbLAbF9QLfrkXv7n3pPmE0uOSgCshvh5wUUjH24vbzbVH4Uv"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_2",
-      "url": "nU831YOHk7TW+u6kRBK5ieqlbQ5bOsIWLqkgxaXWMYyXNtsq+1wFrv3GzIaqP+nGqhPgX/tZwZovFK+j4H4/o3te09gyznZe"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_3",
-      "url": "aIU+qhUZvfzTmHUtW+KwcL+QpLV2rOVvrvIa1Tr+aEA26RqcLSae8hdm1gG9lH5ilZA0TuOcL7ZhcJ9Qp+pPOjy0zMCU/WfG"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_4",
-      "url": "tf3BltP03qpoftoN6ImCQdW65nRVBUX7LvdltGMmt9rAfED8+1d+mTlZwSRHI1rUzYjx16yDYYsyPfe1RBvLUwPPjJZMH3XV"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_5",
-      "url": "8VGiBRv84e2clP1wY7WCT/GNgbxRDZqSOpxuQRIR/EWpQwPxDrCY2vqt5bPuR+tGKfblrGZLS5aJ8Bv5T9TePYDGS4htPykN"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_6",
-      "url": "Cqs8kDwtYECvj8EsYWuN0sEctCWhYUUMIe0hi+I3wMo5UlBqtx3CCMXMFgdISQbiYNcNmAtPYh8fdorfk5nAh9+GWLMO7Nc5"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_7",
-      "url": "MqJNc521cIxIXTG3gVrE7pFuHP9+u3pbJVO49tsssDbE8yss7V2pUbSheVvhjE8tmwsMSnuVUNeW7vDtkraC8fZ23GyXXaOH"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_8",
-      "url": "9enAR/ahA6NmXzTRpA8YB68HsMr1r6atXx7RZ33zWHg8GeR0NcLpjRJ17mcPB5ZWyu6q+xfdgB8aqtLuBUndoef1KvYmhwkL"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_9",
-      "url": "JmWt7reuSjqBwcxac8GIbp6pdwMNdc7auDEesRoh0reHUYaFqGBQb1+ReyQwCULR2TJWyqH2CCp8U0X0T6h0sKKC/ysPWfXU"
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_10",
-      "url": "FOFStR2+gZcYfkZzuAAmdWRYSEX193DAXu28iDuv8PlAOutTRrVDd7HVihAcBd4oivQMo74azB8hVlvaJTk7B7awC2Gj9ZfWiudK5g=="
-    },
-    {
-      "name": "IND_DtacNoPro-TrueNoPro_11",
-      "url": "xJkCja80nU0dhPUVQ7zF86EWG2qrdU9z4HdG74pOKwOX9vDbsSSXDaGsIgKp5vHbnMY1UijdxkbHusPRQt0KniYRu+5R6FvBgvxdig=="
-    },
-    {
-      "name": "Mytel_Business_1",
-      "url": "60S3W76QHbGdBGWzTlYd+n3fuDN2zLCK+eFvp20oXcQgQ8P1sbLAbF9QLfrkXv7n3pPmE0uOSgCshvh5wUUjH24vbzbVH4Uv"
-    },
-    {
-      "name": "Mytel_Business_2",
-      "url": "nU831YOHk7TW+u6kRBK5ieqlbQ5bOsIWLqkgxaXWMYyXNtsq+1wFrv3GzIaqP+nGqhPgX/tZwZovFK+j4H4/o3te09gyznZe"
-    },
-    {
-      "name": "Mytel_Business_3",
-      "url": "aIU+qhUZvfzTmHUtW+KwcL+QpLV2rOVvrvIa1Tr+aEA26RqcLSae8hdm1gG9lH5ilZA0TuOcL7ZhcJ9Qp+pPOjy0zMCU/WfG"
-    },
-    {
-      "name": "Mytel_Business_4",
-      "url": "tf3BltP03qpoftoN6ImCQdW65nRVBUX7LvdltGMmt9rAfED8+1d+mTlZwSRHI1rUzYjx16yDYYsyPfe1RBvLUwPPjJZMH3XV"
-    },
-    {
-      "name": "Mytel_Business_5",
-      "url": "8VGiBRv84e2clP1wY7WCT/GNgbxRDZqSOpxuQRIR/EWpQwPxDrCY2vqt5bPuR+tGKfblrGZLS5aJ8Bv5T9TePYDGS4htPykN"
-    },
-    {
-      "name": "Mytel_Business_6",
-      "url": "Cqs8kDwtYECvj8EsYWuN0sEctCWhYUUMIe0hi+I3wMo5UlBqtx3CCMXMFgdISQbiYNcNmAtPYh8fdorfk5nAh9+GWLMO7Nc5"
-    },
-    {
-      "name": "Mytel_Business_7",
-      "url": "MqJNc521cIxIXTG3gVrE7pFuHP9+u3pbJVO49tsssDbE8yss7V2pUbSheVvhjE8tmwsMSnuVUNeW7vDtkraC8fZ23GyXXaOH"
-    },
-    {
-      "name": "Mytel_Business_8",
-      "url": "9enAR/ahA6NmXzTRpA8YB68HsMr1r6atXx7RZ33zWHg8GeR0NcLpjRJ17mcPB5ZWyu6q+xfdgB8aqtLuBUndoef1KvYmhwkL"
-    },
-    {
-      "name": "Mytel_Business_9",
-      "url": "JmWt7reuSjqBwcxac8GIbp6pdwMNdc7auDEesRoh0reHUYaFqGBQb1+ReyQwCULR2TJWyqH2CCp8U0X0T6h0sKKC/ysPWfXU"
-    },
-    {
-      "name": "Mytel_Business_10",
-      "url": "FOFStR2+gZcYfkZzuAAmdWRYSEX193DAXu28iDuv8PlAOutTRrVDd7HVihAcBd4oivQMo74azB8hVlvaJTk7B7awC2Gj9ZfWiudK5g=="
-    },
-    {
-      "name": "Mytel_Business_11",
-      "url": "xJkCja80nU0dhPUVQ7zF86EWG2qrdU9z4HdG74pOKwOX9vDbsSSXDaGsIgKp5vHbnMY1UijdxkbHusPRQt0KniYRu+5R6FvBgvxdig=="
-    }
+
+{
+         "name": "SG-DTAC-3",
+         "url": "G8O0+NgUO2zPxcv7C3A8veIE+EemiNlLL+RuXbaX4kpivNGG2ldvzs4VN85IIh2c6zAQmElHsnHavZE0TGcbB+VgaNPpb+LNdhGSDbiZ4Ps="
+      },
+
+{
+         "name": "SG-DTAC-4",
+         "url": "UardWcoSCaZeyOyz/tQWjj7BiEyoT19OJtLRfipmi4Vm8RTPQbclUB38cLjMQomY8uu0HXPuBbi88lrTrBW906kVT/qMEeE8gUXRsYIqZio="
+      },
+
+{
+         "name": "SG-DTAC-5",
+         "url": "o8qZdLzwkBYahlTMq4ox1h1hXo7eE92y89ZTqJNN6lqUrzvo1L95+8X9Efa6zlc8PbZ7PktfRQTSMZ8NBGKcWCOsWzElokTkSDVIDnzg3Og="
+      },
+
+{
+         "name": "SG-TRUE-1",
+         "url": "KIDJ1Y+HycMKGzxof5PYAvEM5R3swwyDgOdKQW23cwQKAwyk6v6HFJ8dQrie3OCfH2/5Gk6GteXCOTcRG0H6hZV/RPjG2UM0WhzThmZlkcQ="
+      },
+
+{
+         "name": "SG-TRUE-2",
+         "url": "90hx03YnVpDbCxRMQLMH/RQKYhIAZjtTNKP+Cr2jL507m6l8r9WIo83VAkpYl7f0XT/Pai0RXqSToTugQJLnQ4Ae5DG+J69gQYFFPdhtOWs="
+      },
+
+{
+         "name": "SG-TRUE-3",
+         "url": "eSpMzmrQf1cvmumHfhnk8f8S6JkVZS6bqkxNIsSBkpf8+RaSjdc1nqQ7M5zVbTNHFuK3Kfd6SkP+HLY+GxLL569CFxEMlSDntYZhj2qcHbs="
+      },
+
+{
+         "name": "SG-TRUE-4",
+         "url": "OnDEbE+h+fr+8Y+gjm0uo/cqHqFA4da9aSu99xatDWrSQ0BAmGMCC0JFvW1H5caUoql9zKUa6oLi2fphHIluGmbBm7mtL/ToGX4SLCSBBKM="
+      },
+
+{
+         "name": "SG-TRUE-5",
+         "url": "HRipkePzqXSvvshqvkxa49yoyFAcs6z3kWFsTOHT+57UrPwkvfomTW1WoU6/+bL5E6mMeWueLNxqBZXs600oq/XOnYNWvGRU+rsnyNNxqww="
+      },
+
+{
+         "name": "US-DTAC-1",
+         "url": "lMkolrb2RCE1NKQ0qQZ1TYi7aArGKf0doFQyTMyG0KuxA1EElxnK8PeZugxZJoUbUrcuWm2QHYRZV/2ftuyJx8F1a5OAuv8CSs2+jcfznQs="
+      },
+
+
+{
+         "name": "US-DTAC-2",
+         "url": "8AQJBKDwcMMs1kxhwj/MT/ixjdnuYVPtzHmiIf/jCi69vArkX6/uTwoM+YWNvoMcZzv0T1Q+vEzET1I3W5sf03WhlwUsJKP7+2fI6Em856w="
+      },
+
+{
+         "name": "US-DTAC-3",
+         "url": "rsTWtF6KKh7OkjG3j81AYXVD+C51xdK+EAHV+y8GMfOlTAAV/XJbWarqzxZ1OEA5xnQUD37+rzcSOEX4LsqIJ+p2Ws4GYknRzmEfCEUM7qs="
+      },
+
+
+{
+         "name": "US-TRUE-1",
+         "url": "4Wfz99c9hLqkxUMItStLYmTLs1uMGDC9/XBQ79yRM7Uma9mtnV8arWB12G7reVF7kqkQ3jD0ZT5ceYc/n8RAXbXzt9fouscV6H1QRkCc2/I="
+      },
+
+{
+         "name": "US-TRUE-2",
+         "url": "o8wYu5gaMSES5FwkOyjHa7zNaLHV1lCBSFhfeN5Y1QeLcar6ZvKo5UdtLhfudmKTc4t4ii/R8AAyDLKUfksPsRZncJAxup7qzjKgZfZX8Is="
+      },
+
+{
+         "name": "US-TRUE-3",
+         "url": "3N+sLsa8JLB7cCCG0S5vE95ORlDmgWuXiE4/ATnIEPpqsGSZFB/xqy8nux6fRgmOT8D+rxBfOR0LVey3ztVBZpNP6JEoG62sI9dv4IqE4TQ="
+      }
   ]
 }
