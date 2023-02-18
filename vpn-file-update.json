@@ -1,88 +1,98 @@
 {
-  "version": 7,
+  "version": 8,
   "title": " Dtac & True",
-  "message": "-More Many C Server for free User.\n- Added SG 10 Server\n- Added US 6 Server ",
+  "message": "-More Many C Server for free User.\n- Added JAPAN 10 Server\n- Added Free 8 Server ",
   "files": [
 {
-         "name": "SG-DTAC-1",
-         "url": "k9jIiqVAzJDaw5Sf6lQrbYMcmAXGaW8Ztj3EXlv3EvHqiOWx1RaaUvx4Ks9LOD1VeVZaBzAdmkbJvenISCHm7LerZYJhnh5RmNadReFmcIs="
-     },
-
-{
-         "name": "SG-DTAC-2",
-         "url": "740uXZh1f4XgzCb+Z4ZFndmADTXbIY5MEjY23zz6dXE4JKeuynFh06C/gR4FTtZHgGD9sQDNIplD8XdwFiW3os45cddaWNXKVGx8FvXPZSA="
+         "name": "Free1",
+         "url": "BCViGBCQCkxBWYq4z3O/v0DSqwUEpcoEfCi80ZbG1n7YvNLG5z7pJkyan2igO6Fvckxrs197wZcjJOViNVvS7NyAstQbNhqX5FDrLA=="
       },
 
 {
-         "name": "SG-DTAC-3",
-         "url": "G8O0+NgUO2zPxcv7C3A8veIE+EemiNlLL+RuXbaX4kpivNGG2ldvzs4VN85IIh2c6zAQmElHsnHavZE0TGcbB+VgaNPpb+LNdhGSDbiZ4Ps="
+         "name": "Free2",
+         "url": "gsgIhh4Fq2MJ16AIsCmHcZpJe/yTcnwquh8Xto2Bklp7wtygYxbBM5VZDzyJeCTDnG6plccmVM1dmIQNuBpDnpgw8wDd5kco34B+bg=="
       },
 
 {
-         "name": "SG-DTAC-4",
-         "url": "UardWcoSCaZeyOyz/tQWjj7BiEyoT19OJtLRfipmi4Vm8RTPQbclUB38cLjMQomY8uu0HXPuBbi88lrTrBW906kVT/qMEeE8gUXRsYIqZio="
+         "name": "Free3",
+         "url": "yXZ3Fdbc0IcY/MN3pdKb6Iw49VhFO80JYnG+WP4BTHr1IUcXYpVhGNUGIF5LLiekRg0CERv92/ihb6fD/GtGVe0bb2I+jkLJx8MFIQ=="
       },
 
 {
-         "name": "SG-DTAC-5",
-         "url": "o8qZdLzwkBYahlTMq4ox1h1hXo7eE92y89ZTqJNN6lqUrzvo1L95+8X9Efa6zlc8PbZ7PktfRQTSMZ8NBGKcWCOsWzElokTkSDVIDnzg3Og="
+         "name": "Free4",
+         "url": "sXGaVc4wL/DMNGuZhlxbUzgA0BnfwaWk7elU0xZQAuQ7yFXVLLHTCCYljhH/00Fb4Q/qg7rQaddO3lbDGKBV+Ng9UXGM5VWu/vpptg=="
       },
 
 {
-         "name": "SG-TRUE-1",
-         "url": "KIDJ1Y+HycMKGzxof5PYAvEM5R3swwyDgOdKQW23cwQKAwyk6v6HFJ8dQrie3OCfH2/5Gk6GteXCOTcRG0H6hZV/RPjG2UM0WhzThmZlkcQ="
+         "name": "Free5",
+         "url": "pPGLsAS6VFNOwIOrAY5+Bt22TO9atnyEKSs1yOkOMPY2a6WbRjC5XZC9VeXF5PJSeJ9aj45vcuEhSmZNVJga3C/vrBH+wGRiluUg4Q=="
       },
 
 {
-         "name": "SG-TRUE-2",
-         "url": "90hx03YnVpDbCxRMQLMH/RQKYhIAZjtTNKP+Cr2jL507m6l8r9WIo83VAkpYl7f0XT/Pai0RXqSToTugQJLnQ4Ae5DG+J69gQYFFPdhtOWs="
-      },
-
-{
-         "name": "SG-TRUE-3",
-         "url": "eSpMzmrQf1cvmumHfhnk8f8S6JkVZS6bqkxNIsSBkpf8+RaSjdc1nqQ7M5zVbTNHFuK3Kfd6SkP+HLY+GxLL569CFxEMlSDntYZhj2qcHbs="
-      },
-
-{
-         "name": "SG-TRUE-4",
-         "url": "OnDEbE+h+fr+8Y+gjm0uo/cqHqFA4da9aSu99xatDWrSQ0BAmGMCC0JFvW1H5caUoql9zKUa6oLi2fphHIluGmbBm7mtL/ToGX4SLCSBBKM="
-      },
-
-{
-         "name": "SG-TRUE-5",
-         "url": "HRipkePzqXSvvshqvkxa49yoyFAcs6z3kWFsTOHT+57UrPwkvfomTW1WoU6/+bL5E6mMeWueLNxqBZXs600oq/XOnYNWvGRU+rsnyNNxqww="
-      },
-
-{
-         "name": "US-DTAC-1",
-         "url": "lMkolrb2RCE1NKQ0qQZ1TYi7aArGKf0doFQyTMyG0KuxA1EElxnK8PeZugxZJoUbUrcuWm2QHYRZV/2ftuyJx8F1a5OAuv8CSs2+jcfznQs="
+         "name": "Free6",
+         "url": "cJxrs1d1j6d8QAB3nD7J/onqPkcBZkLLPBwpvmedPE3w2lSPryh7XZ035uwjedvVecq43OdpFFSwBYK9rmQnyUnN89fmoloLWnlsJQ=="
       },
 
 
 {
-         "name": "US-DTAC-2",
-         "url": "8AQJBKDwcMMs1kxhwj/MT/ixjdnuYVPtzHmiIf/jCi69vArkX6/uTwoM+YWNvoMcZzv0T1Q+vEzET1I3W5sf03WhlwUsJKP7+2fI6Em856w="
+         "name": "Free7",
+         "url": "Sj4+NAleoXBhBPR1Bj0Z2ybUKBOdQ1sTy5Z+aWjtmWFl17yiL3fa8mrYKWWAh6E607YQ4bEbmou0HY2+T0A/761B2kvzcEK3kfIRxg=="
       },
 
 {
-         "name": "US-DTAC-3",
-         "url": "rsTWtF6KKh7OkjG3j81AYXVD+C51xdK+EAHV+y8GMfOlTAAV/XJbWarqzxZ1OEA5xnQUD37+rzcSOEX4LsqIJ+p2Ws4GYknRzmEfCEUM7qs="
+         "name": "Free8",
+         "url": "yxa0V17ZsxZUVGmO6Uuqenb+YjVCM2Zx83L7EWFCAiC0WEZTjeneIPaPvBi3UOD4M9ZWj5IzetdGMB3cP5eMjdOk76ktzB/dEEuAnw=="
+      },
+
+{
+         "name": "JP1-DTAC+TRUE",
+         "url": "oOhXg0VYB/v6BTQNdIuXZa9waSvTGNE9ZWp6ujCtr40/rkwhsHY6Kw1VaP/cyiKxW2eP1YBzITEiRR14UfsU+XKnza1xxezFfp73hbqRWHf2cMCI"
+      },
+
+{
+         "name": "JP2-DTAC+TRUE",
+         "url": "aBnH/fDAiYat/FrfT6XQK9prgE8MRHtDA0C2UUXWrivyuaqzLuk62RQntk1ZaDX4e2BTch07m+PCr6QV1FBjLimce+dFupICZRs31rl14sMmfEPu"
+      },
+
+{
+         "name": "JP3-DTAC+TRUE",
+         "url": "YT5Jjwt/kEAIdiiEDdNe7sCdFFs8WvRAKnMJOx2c12RxXEj8YG/kXJibuh9sxIIgJL5gayIMM3f3Ffhe6HI1QGPpD8NHQIVqtmTImFpC4TLsJpfk"
+      },
+
+{
+         "name": "JP4-DTAC+TRUE",
+         "url": "QFfrhQUf4NoP2h1eK7ZDo2nBWFd6IU3GJL+QbhrGFCgcVA3hokBR3iZ3nAmE58hdct0NGM4NxPQ+ENiuLfZ2YaOAU5C6GoKES8i4OO5GOLToWFyo"
+      },
+
+{
+         "name": "JP5-DTAC+TRUE",
+         "url": "hPuv7oA3fB49OeZgibnZtHaOZ1TbwX2CFVdKUl+bJhCQNoQbklStHgzeEkpo7ATPhKLBWHzFuC6F/JlEA/LBYjTmyDvPk23rfT1FjN9qyXOsaln4"
+      },
+
+{
+         "name": "JP6-DTAC+TRUE",
+         "url": "01Xus0wZlelTiPBb3ozn8YmqqolZ6PU317r3AqeXa/rzPIohno2X5uk9Zm4lI/Kp2Ktr8PquHT8/YYJ+mf8hbx0mHRh1+p3EB17fFQA2RkAckH0u"
       },
 
 
 {
-         "name": "US-TRUE-1",
-         "url": "4Wfz99c9hLqkxUMItStLYmTLs1uMGDC9/XBQ79yRM7Uma9mtnV8arWB12G7reVF7kqkQ3jD0ZT5ceYc/n8RAXbXzt9fouscV6H1QRkCc2/I="
+         "name": "JP7-DTAC+TRUE",
+         "url": "8f4RMuXi1BC4Gmd99mfldV7YG+qhVdwxkePsiK3p7DhrzhpdGon0PMNqfL8VM54YQ2RW2GgGC5tjXU81tjq42HTwqdqeFhV+x2JnbrlbvQ64e9uJ"
       },
 
 {
-         "name": "US-TRUE-2",
-         "url": "o8wYu5gaMSES5FwkOyjHa7zNaLHV1lCBSFhfeN5Y1QeLcar6ZvKo5UdtLhfudmKTc4t4ii/R8AAyDLKUfksPsRZncJAxup7qzjKgZfZX8Is="
+         "name": "JP8-DTAC+TRUE",
+         "url": "Av6EbVh63Tmk+q+8XiDfchQOAgKoaNdOd6AY9XbbT84HldLZwzJVF3IAKQa8/ECc1G+M1TTe92cMnP/T1qJG9HsPKBYoduX8IrBkkLbrC3bPtlaL"
       },
 
 {
-         "name": "US-TRUE-3",
-         "url": "3N+sLsa8JLB7cCCG0S5vE95ORlDmgWuXiE4/ATnIEPpqsGSZFB/xqy8nux6fRgmOT8D+rxBfOR0LVey3ztVBZpNP6JEoG62sI9dv4IqE4TQ="
+         "name": "JP9-DTAC+TRUE",
+         "url": "T09Yr+KO2g8VDSGC58Wc1CV2lMbQ4r5EruesiSpNn48x1f0r+hy47VsOAwro4arhX+ANIP0WVPNWjxm82fO4o3A80M6SD7UIU8WHOwDJu3N3zVO5"
+      },
+
+{
+         "name": "JP10-DTAC+TRUE",
+         "url": "gSHkWskZsu5DdywgmunYb845tJPck9ukXuTcoe3YhuGKayjfAhYYesdqt931GUjMEdMFtsFN+Bvuk3AWw1liA/V9G+w39/upoOPPBi9/Re2JtU+E"
       }
   ]
 }
