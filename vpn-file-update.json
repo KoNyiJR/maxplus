@@ -1,199 +1,106 @@
 {
-  "version": 9,
+  "version": 10,
   "title": " Dtac & True",
-  "message": "-More Many C Server for free User.\n- Added JAPAN 10 Server\n- Added Free 8 Server ",
+  "message": "-More Many C Server for free User.\n- Added Thailand 10 Server\n- Added Singapore 10 Server. ",
   "files": [
-{
-         "name": "Free1",
-         "url": "BCViGBCQCkxBWYq4z3O/v0DSqwUEpcoEfCi80ZbG1n7YvNLG5z7pJkyan2igO6Fvckxrs197wZcjJOViNVvS7NyAstQbNhqX5FDrLA=="
-      },
-
-{
-         "name": "Free2",
-         "url": "gsgIhh4Fq2MJ16AIsCmHcZpJe/yTcnwquh8Xto2Bklp7wtygYxbBM5VZDzyJeCTDnG6plccmVM1dmIQNuBpDnpgw8wDd5kco34B+bg=="
-      },
-
-{
-         "name": "Free3",
-         "url": "yXZ3Fdbc0IcY/MN3pdKb6Iw49VhFO80JYnG+WP4BTHr1IUcXYpVhGNUGIF5LLiekRg0CERv92/ihb6fD/GtGVe0bb2I+jkLJx8MFIQ=="
-      },
-
-{
-         "name": "Free4",
-         "url": "sXGaVc4wL/DMNGuZhlxbUzgA0BnfwaWk7elU0xZQAuQ7yFXVLLHTCCYljhH/00Fb4Q/qg7rQaddO3lbDGKBV+Ng9UXGM5VWu/vpptg=="
-      },
-
-{
-         "name": "Free5",
-         "url": "pPGLsAS6VFNOwIOrAY5+Bt22TO9atnyEKSs1yOkOMPY2a6WbRjC5XZC9VeXF5PJSeJ9aj45vcuEhSmZNVJga3C/vrBH+wGRiluUg4Q=="
-      },
-
-{
-         "name": "Free6",
-         "url": "cJxrs1d1j6d8QAB3nD7J/onqPkcBZkLLPBwpvmedPE3w2lSPryh7XZ035uwjedvVecq43OdpFFSwBYK9rmQnyUnN89fmoloLWnlsJQ=="
-      },
-
-
-{
-         "name": "Free7",
-         "url": "Sj4+NAleoXBhBPR1Bj0Z2ybUKBOdQ1sTy5Z+aWjtmWFl17yiL3fa8mrYKWWAh6E607YQ4bEbmou0HY2+T0A/761B2kvzcEK3kfIRxg=="
-      },
-
-{
-         "name": "Free8",
-         "url": "yxa0V17ZsxZUVGmO6Uuqenb+YjVCM2Zx83L7EWFCAiC0WEZTjeneIPaPvBi3UOD4M9ZWj5IzetdGMB3cP5eMjdOk76ktzB/dEEuAnw=="
-      },
-
-{
-         "name": "JP1-DTAC+TRUE",
-         "url": "oOhXg0VYB/v6BTQNdIuXZa9waSvTGNE9ZWp6ujCtr40/rkwhsHY6Kw1VaP/cyiKxW2eP1YBzITEiRR14UfsU+XKnza1xxezFfp73hbqRWHf2cMCI"
-      },
-
-{
-         "name": "JP2-DTAC+TRUE",
-         "url": "aBnH/fDAiYat/FrfT6XQK9prgE8MRHtDA0C2UUXWrivyuaqzLuk62RQntk1ZaDX4e2BTch07m+PCr6QV1FBjLimce+dFupICZRs31rl14sMmfEPu"
-      },
-
-{
-         "name": "JP3-DTAC+TRUE",
-         "url": "YT5Jjwt/kEAIdiiEDdNe7sCdFFs8WvRAKnMJOx2c12RxXEj8YG/kXJibuh9sxIIgJL5gayIMM3f3Ffhe6HI1QGPpD8NHQIVqtmTImFpC4TLsJpfk"
-      },
-
-{
-         "name": "JP4-DTAC+TRUE",
-         "url": "QFfrhQUf4NoP2h1eK7ZDo2nBWFd6IU3GJL+QbhrGFCgcVA3hokBR3iZ3nAmE58hdct0NGM4NxPQ+ENiuLfZ2YaOAU5C6GoKES8i4OO5GOLToWFyo"
-      },
-
-{
-         "name": "JP5-DTAC+TRUE",
-         "url": "hPuv7oA3fB49OeZgibnZtHaOZ1TbwX2CFVdKUl+bJhCQNoQbklStHgzeEkpo7ATPhKLBWHzFuC6F/JlEA/LBYjTmyDvPk23rfT1FjN9qyXOsaln4"
-      },
-
-{
-         "name": "JP6-DTAC+TRUE",
-         "url": "01Xus0wZlelTiPBb3ozn8YmqqolZ6PU317r3AqeXa/rzPIohno2X5uk9Zm4lI/Kp2Ktr8PquHT8/YYJ+mf8hbx0mHRh1+p3EB17fFQA2RkAckH0u"
-      },
-
-
-{
-         "name": "JP7-DTAC+TRUE",
-         "url": "8f4RMuXi1BC4Gmd99mfldV7YG+qhVdwxkePsiK3p7DhrzhpdGon0PMNqfL8VM54YQ2RW2GgGC5tjXU81tjq42HTwqdqeFhV+x2JnbrlbvQ64e9uJ"
-      },
-
-{
-         "name": "JP8-DTAC+TRUE",
-         "url": "Av6EbVh63Tmk+q+8XiDfchQOAgKoaNdOd6AY9XbbT84HldLZwzJVF3IAKQa8/ECc1G+M1TTe92cMnP/T1qJG9HsPKBYoduX8IrBkkLbrC3bPtlaL"
-      },
-
-{
-         "name": "JP9-DTAC+TRUE",
-         "url": "T09Yr+KO2g8VDSGC58Wc1CV2lMbQ4r5EruesiSpNn48x1f0r+hy47VsOAwro4arhX+ANIP0WVPNWjxm82fO4o3A80M6SD7UIU8WHOwDJu3N3zVO5"
-      },
-
-{
-         "name": "JP10-DTAC+TRUE",
-         "url": "gSHkWskZsu5DdywgmunYb845tJPck9ukXuTcoe3YhuGKayjfAhYYesdqt931GUjMEdMFtsFN+Bvuk3AWw1liA/V9G+w39/upoOPPBi9/Re2JtU+E"
-      },
-
-{
-         "name": "JP11-DTAC+TRUE",
-         "url": "Hkv11ngldrBEBKkZwtalRV2d9GphQ5/9ljHfYakg37jAYIRpfdEsOVz6+TxwKKxH6pBkkXrqqByq8gwj9fjnoSbvVdVgqnCWeAw0arEEUyq0UllV"
-      },
-
-{
-         "name": "JP12-DTAC+TRUE",
-         "url": "2O+ydwmSGKXgIm8BBZ97KwGo1EJB0fyZYYezKaj8ppW5b9t99CbF8BKeHVpmWqXFJFb4Pvh+c8t5/WTq9dN5JRhUY5P65FX7B/MO9K5kn9Jjciu2"
-      },
-
-{
-         "name": "JP13-DTAC+TRUE",
-         "url": "MY6dV3vqAsfdXTJxod2OBHu2S9PJdC/EnL7A/ukfLsLS0WMAhl9IOHqdWhHQGVpbaQCXZcv6K9lmxtsJwFiWWVVOHuzsGUxp0kwUeMmAf+CiWPVH"
-      },
-
-{
-         "name": "JP14-DTAC+TRUE",
-         "url": "yNe0zVnNQWT9OtIWulAEJUf4/zSKY0pg6sVtuuvhLk/vhm9geBSdym8R9j2PRa3VSTSVPFFDcB3OXPFULTt9JkGDdhD80D+F6mk+T1LPz4vy4TOq"
-      },
-
-{
-         "name": "JP15-DTAC+TRUE",
-         "url": "kH+FYyIdlt2aYuGUpwq7DvYqXnkBMMp0JOu/dhsVm51U6lCoqCdpkMkxC7NXE2+7mqI5lF+kxtYWmZcrEP2uPdu55X/2DO0BKH4ZQK33yyFuAjmS"
-      },
-
-{
-         "name": "JP16-DTAC+TRUE",
-         "url": "Ds4p5xwbtwx+mRZpK2oxJ78ojII1mQNa838/3h7TNVjqjVKsxi0G1+V42YT/1UxOJfdI253LoKAmA54wf+N+8eXswd5xq52dNwnDMhe5Wijan6vr"
-      },
-
-{
-         "name": "JP17-DTAC+TRUE",
-         "url": "FEPTkflBUy/8d8y4bBdoKoG+4+QVbrDgUIwjX9EUMxYMnZPk/DErPSWx8WagrhCx1XSJN75iQFfTnV+b1aMjz3iy03tBzFeRRFF7lBj9Mb55Ree7"
-      },
-
-{
-         "name": "JP18-DTAC+TRUE",
-         "url": "3mnJoVeprUY5IWpirfi3JGfsRCuNFlH5jUNyx78nPwJDm8oRD5oy1yQihttbqI5LXL2Q051U3RyiYf7Lp5LDvErG/1AET9wQXB22Lwt9O5AKAxBU"
-      },
-
-{
-         "name": "JP19-DTAC+TRUE",
-         "url": "T7BD985tcoozfrt2Y7LyQnOEs3pEeh0OYzEQbw9U9/aiAU/YSHhiANXcHCGSDCVCIz3VdbNPdIQHmnz0x39fE/wpm+ew/Taqxm7EN+u7gladPQww"
-      },
-
-{
-         "name": "JP20-DTAC+TRUE",
-         "url": "bYwdUAumlgiHtr4cd8wbN3IbSwIBQbhv9bfBh4QqMA33U3BXyHZDojIoFJL3EQCLzfJBhtF8Bf2psm3vBp/ap9XqvZLouDkUmZp7yCTn9zYCoB9A"
-      },
-
-{
-         "name": "KR1-DTAC+TRUE",
-         "url": "pN2alfOZptW9Ji16ijvqBm1au6G4MsBI+y18CkQsm6Y3bJwlfAg47A4fw2tzmNRZe65Zo6ZVA12Couo7uj/KA/lHAXGiHhoQtVsbZSy1pX1GVfrS"
-      },
-
-{
-         "name": "KR2-DTAC+TRUE",
-         "url": "pY+C3JgT6S0D0uWnSh4OJGf16vxr7I98Vnx6rL8mdRZmwFuFHvQAsgNW52188+mZKVFzrwNzDMVi4ERG9O1rNcXVaCPrjRBzY71LITENRmjmpxxO"
-      },
-
-{
-         "name": "KR3-DTAC+TRUE",
-         "url": "seGjVh+uKjHATPKq6O5ITirCYqtbsS0OUN7pZPkM5grJ128uWQPe8W9TaoCsxPlzwQpWDLH9oMBj7oADa0VNFEHuFNKmCjTgeXfEvTZw9PgeFGjB"
-      },
-
-
-{
-         "name": "KR4-DTAC+TRUE",
-         "url": "qPfvxrVDHSs1MmSWnzJU0/i1B+gz3TP5XycAVElYX18DGEt2T7kusaYSexqkHsqaG1pCJNZvR6tB++ztu1K3OC3jM+Nxx1QdIEv4J5Y4/Wp7CzMw"
-      },
-
-{
-         "name": "KR5-DTAC+TRUE",
-         "url": "h11LemDDAZlvTQGhGlYNlcmyxxfQbG0ZqnnXacGThdidq60JnfMysUMoOhUsB+zsp7gT+SyrnZO58hPhveHgyDRI4roKwZ5PQBFPgXRCnuHZWx3Z"
-      },
-
-{
-         "name": "KR6-DTAC+TRUE",
-         "url": "/NDcPez3Gx3zxYkdQ/7jmhBVF4Hg+vjs7FOw7gG1Ib9AJ8szYk+bXosYq/6uyJS0sXNIP1xMA7qNOfR/7+rmpsOELhUo293Ck8E1cIVgPlwfWUcn"
-      },
-
-{
-         "name": "KR7-DTAC+TRUE",
-         "url": "STAckKE4KwkCWfM7dFApCT1weEl0WE5Nw5I5GLx/KJRx8D/Hb/g525UowiqZqCglKcnpwAlQlQ8Hjj783pp6EQ5JXWGe/GU/VQeDP+KjNmIxqIJ4"
-      },
-
-{
-         "name": "KR8-DTAC+TRUE",
-         "url": "FgLnKrHqvMXIauS/xgTWmwf/WlWQEp0OxWv5lOcqD6rAlttQs2oSRb//whi1v/NJpZMY/FyG2cDCN1F++jsqnie7kjr+FC9h7puOD+yOJY9auqQX"
-      },
-
-{
-         "name": "KR9-DTAC+TRUE",
-         "url": "EnnFeExsBDegmfdXpqSbbM+xo1m64m9pZkRs1yxtqCL90eUYzgU2hTDWVTzt99vgoMdAQLbBmr99CflukCOGdTd+iJ9RiKoxTQMN+GgjCmC6Rv8T"
-      },
-
-{
-         "name": "KR10-DTAC+TRUE",
-         "url": "x6MdzJvJsEE9XH3lH0yUZ+Y6k1Fk7HdkzCK70x7Fgcveu0cNXrtlSgVJQnYZ2lOWE116JPeUGqFxLJfGE4SGkHpdSjzSgAh/K4MnVnl3js1z0o3O"
+      {
+         "name": "FREE-TH-TRUE-DTAC-01",
+         "url": "tb+lJULCQ0nXDGJdiosj1OZrC26p6R0y8QfXMvPZMg9iWPq5YOdoQbKfH21FEhKMEFeybSAOgwWkIbo/P4ee94tgOI9P5szK9OCva5S31hFJYldb3isaXtDs9uo="
+      }, 
+                                                
+      {
+         "name": "FREE-TH-TRUE-DTAC-02",
+         "url": "IFMU9RStvTNCCEhuB1CNHQmASOyf9NbW7moTIv+vqgxYU8e+OAXMXEtoThQuSeKvr5eFJdUXiTfjrYr76nPqGCqKdI6/Z+T45ZY7tptkJuQxmcnlZws88EwSCRo="
+      }, 
+                                              
+      {
+         "name": "FREE-TH-TRUE-DTAC-03",
+         "url": "NUl+EHqWCZM/WJbkpPyUVWVfcB+l/itDDYNoLBZfLmuGYX+KSa6AgSIkX62q7/t5QbQZpzSCiNQCVWDDSEwteebXxRXd/ArIRTT75j3HNFI4byByBLpUFIGo/yI="
+      }, 
+                                               
+      {
+         "name": "FREE-TH-TRUE-DTAC-04",
+         "url": "HvAMkMVs3kFoHWMjHbAnIT6O2lU3/rKuE93LvwXA2CA6TWBcQAauom23dZqocflwsH5sWCQR5VPbkVWuqGVuXSyLgKW6kpe3JSI2dWlM0eihUUkk4mcqxOSIXfI="
+      }, 
+                                                   
+      {
+         "name": "FREE-TH-TRUE-DTAC-05",
+         "url": "48efNyZ6vqlbYfHX7b6RqOJKmt1JCV9os9M0p4d8qjK1kVOjVT8a5QOoAoETCoDiIXMmjl097VpXaZ5vvu0l9hGq+cbWWV88VpeMLOhDg7wvuLz9GWNhW1w5GBk="
+      }, 
+                                                     
+      {
+         "name": "FREE-TH-TRUE-DTAC-06",
+         "url": "mhUzTI8gJ5LDR8g6qMTngOoXdf19mtUy5FM87aQmk3hm2sXOZdENGLz7BJMgFklF0LR97W5gDpPjUDg9jvNv8mG0IqYyBZDttTCry1/hFfUEJ5fH7ioJcrq6fng="
+      }, 
+                                                 
+      {
+         "name": "FREE-TH-TRUE-DTAC-07",
+         "url": "2mJZ8eRLX9Cf+D24Mm3cTc8tbYyfavaYb6M6AMj0uBgO6Xcv6gwkBZbArtGF7tIJGFQU1eoVOwz//dk+y5pWLbMycM7iM4078b6vDEJvkeGN764Lpjrur0kaKZ8="
+      }, 
+                                                 
+      {
+         "name": "FREE-TH-TRUE-DTAC-08",
+         "url": "DBh+f5LshaBbcnciEkyzd4YPqPWxse1Z/JHT99j5MkrP3doU7Tw6nY+65H5wwC399N5dUqzz5JEsLThjI/NbOr32Ym9ILvYn0Fprx/qbJFN/hXZAKAEnac6Lo5w="
+      }, 
+                                                
+      {
+         "name": "FREE-TH-TRUE-DTAC-09",
+         "url": "WYiNnADR54d6sHA4Tf0sTH30vpq75GxkiOnu2R18km/Y6USE4STosIb1SGmjv57+fkwz0qEbwOR1PE2dnVyi7R29LBQv656BMILnP6TWI9JLoSvdoTPpirKLj/k="
+      }, 
+                                                  
+      {
+         "name": "FREE-TH-TRUE-DTAC-10",
+         "url": "60/FePwwcN3kdQY04xJ77VRyb0s9et5vda4QyH1P0NJ03PY3yA6GKRkQ/W0kYiWW+PwP8O8ymlewyCwyO4hw2CZlw6O5BdWxhJTHiDjr5u+kb/+a2lMa+Z6hPV0="
+      }, 
+                                                
+      {
+         "name": "FREE-SG-TRUE-DTAC-01",
+         "url": "g08/wdufbSxw2cOL5EJW3u9l7AV02mHlqMLrBWP29GwnV+BlaAbEVEirt+cMYjtGyBHkPPZFwK3R9Nl9AfN/b1tyvqukgUCfj5obI7bZfVcgsYDo+O0I8fS2das="
+      }, 
+                                                             
+      {
+         "name": "FREE-SG-TRUE-DTAC-02",
+         "url": "Q0aMdL2K4w+qug9u5qgInh3DUAaNCOmDByOoJ1y0d3afoefp5uY95F2cL56gZgJFI7ZgVlC+KbA6MsyxlEYse+xcXHkAvMG00E1wPjyxdvrpB12sTjqBcC7+MNg="
+      }, 
+                                                            
+      {
+         "name": "FREE-SG-TRUE-DTAC-03",
+         "url": "SiwjwduQz2mr6Ww79LcSDFwArVxadDp1n4NizuCP7cnMDYdRwQLw1SUsEuXNTmCQGumnXuJKWNKB9bmXGZGTUC6U4Kpj5cA5xqT+eDyBLMCc/AcPDEQreWs0rN0="
+      }, 
+                                                            
+      {
+         "name": "FREE-SG-TRUE-DTAC-04",
+         "url": "W3HA5+ELaDK3HzoGivvcScyKjrUcuN1P6cSuby0a7MXoF7U5St9AwJLudU6XHjSfSJaEbjgz1JgUqWGBOFOKsLX7+VpGoRESJoyPdtcrWs6v3dzorEYj+ppTFqU="
+      }, 
+                                                       
+      {
+         "name": "FREE-SG-TRUE-DTAC-05",
+         "url": "Ujngbrzs2SYGNgutQr8dTppjXFpS5DzdXme+dp8J+zOIcXdi0qznUdRvlHSkuPuN1/pE+xkFsgIrw04jCEAsjtnSqwh/0fXxgSxZ9xdahXR0zVbgB4qKeIK58Xs="
+      }, 
+                                                               
+      {
+         "name": "FREE-SG-TRUE-DTAC-06",
+         "url": "OjhN1j+PKbMsx3lRfSwB0QeaTLCI7iWaAuiwFvMtNB0QVBl83C9P2WPq3eVJEr5SD8qK5MakiudYrjr+nJ9DYiEnqNE3bOYK74UqdqDiAhMbFdXedH+JBHY6RfQ="
+      }, 
+                                                              
+      {
+         "name": "FREE-SG-TRUE-DTAC-07",
+         "url": "rrvYnyO+tj1MTBA/S5kV6jqcYWPn8UaH08Z5p1RwUvV67D8ueWUL8nQHCmlJHMOKr2YJyQy0tr3x3K5gK0sGj2Tr4VuEsTblMUF42UisP9iFAqU4KryC0WSNub0="
+      }, 
+                                                            
+      {
+         "name": "FREE-SG-TRUE-DTAC-08",
+         "url": "8P6X3yDwFvnmgX7txXajIJke/3irO5OPHb1mY5eOfA2cbaU9VumajMMcBiau/YVZ+w87wVEY/iHKxcQIGERh3K64mBgbNTpdgbVLvbg3jZZ5IFKF25dVtLGL7Vw="
+      }, 
+                                                        
+      {
+         "name": "FREE-SG-TRUE-DTAC-09",
+         "url": "Dh6BQagi3IWgZ1z16pTKo7hITD0YDrQZrcQMwsCA4S6J4LMnS7dZ3wPFgIjaBe/h5Z5fJ/w31gnTfZh7IYh9h2uxmkLZAVNCB/3e8hxJGY6PzJCBdfWg9zvHKPs="
+      }, 
+                                                          
+      {
+         "name": "FREE-SG-TRUE-DTAC-10",
+         "url": "aEH6O0GrYvJk5lfl/NnWuQrKL0psKClXKJ4aNsfnjpzzHlXqLpL6VqBnSJDPDdkWY2VjbMOIPV4/sgw18QfOr7/LTSO7/YJGft/swUrPn6UBms2wDRyJCdxEqpk="
       }
   ]
 }
